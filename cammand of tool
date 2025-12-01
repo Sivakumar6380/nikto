@@ -1,0 +1,4 @@
+to open the tool:
+  nikto -h
+to enter the link:
+  simply type the link you need to check vulnerablity.
